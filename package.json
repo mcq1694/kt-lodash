@@ -1,0 +1,13 @@
+{
+  "name": "lodash",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.6",
+    "lodash-es": "^4.17.21"
+  }
+}
